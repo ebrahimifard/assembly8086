@@ -1,4 +1,4 @@
-### Machine Language and System Programming
+## Machine Language and System Programming
 
 
 This is the repository of the coding exercises for the course Machine Language and System Programming. All the exercises are taken from "Introduction to 80x86 Assembly Language and Computer Architecture" by Richard Detmer.
