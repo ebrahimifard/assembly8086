@@ -1,7 +1,9 @@
 This is the repository of the coding exercises for the course Machine Language and System Programming. All the exercises are taken from "Introduction to 80x86 Assembly Language and Computer Architecture" by Richard Detmer.
 
 1- Write a complete 80×86 assembly language program to prompt for values of x, y, and z and display the value of the expression x −2y + 4z. Allow for 16-bit integer values.
+
 2- Write a complete 80×86 assembly language program to prompt for values of x, y, and z and display the value of the expression 2(−x + y−1) + z. Allow for 32-bit integer values.
+
 3- Write a complete 80×86 assembly language program to prompt for the length and width of a rectangle and to display its perimeter (2*length + 2*width).
 4- Write a complete 80×86 assembly language program to prompt for the length, width, and height of a box and to display its volume.
 5- Write a complete 80×86 assembly language program to prompt for the length, width, and height of a box and to display its surface area.
